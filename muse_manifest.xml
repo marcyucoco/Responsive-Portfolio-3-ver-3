@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528148048431">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528148356749">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master-mobile-menu.css" crc="4173165732" ref="contact:about"/>
     <file name="nomq_preview_master_a-master-mobile-menu.css" crc="3869564568" ref="contact:about"/>
     <file name="master_mobile-menu.css" crc="4117948736" ref="menu-from-portfolio:menu-from-contact:menu-from-about"/>
     <file name="nomq_preview_master_mobile-menu.css" crc="3824530138" ref="menu-from-portfolio:menu-from-contact:menu-from-about"/>
-    <file name="master_a-master.css" crc="4068634831" ref="index"/>
+    <file name="master_a-master.css" crc="4101467068" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="342992369" ref="index"/>
     <file name="master_portfolio-master.css" crc="4205719750" ref="portfolio-main-page"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="501175506" ref="portfolio-main-page"/>
-    <file name="contact.css" crc="4099834053" ref="contact"/>
+    <file name="contact.css" crc="395727789" ref="contact"/>
     <file name="nomq_contact.css" crc="362111366" ref="contact"/>
-    <file name="index.css" crc="42267090" ref="index"/>
+    <file name="index.css" crc="67880386" ref="index"/>
     <file name="nomq_index.css" crc="4092027051" ref="index"/>
-    <file name="about.css" crc="52139384" ref="about"/>
+    <file name="about.css" crc="207823415" ref="about"/>
     <file name="nomq_about.css" crc="4189677795" ref="about"/>
     <file name="portfolio-item---air-max-97.css" crc="131039766" ref="portfolio-item---air-max-97"/>
     <file name="menu-from-portfolio.css" crc="4050668271" ref="menu-from-portfolio"/>
     <file name="nomq_menu-from-portfolio.css" crc="343518554" ref="menu-from-portfolio"/>
     <file name="menu-from-contact.css" crc="263704391" ref="menu-from-contact"/>
     <file name="nomq_menu-from-contact.css" crc="343518554" ref="menu-from-contact"/>
-    <file name="portfolio-main-page.css" crc="4194932782" ref="portfolio-main-page"/>
+    <file name="portfolio-main-page.css" crc="4184512596" ref="portfolio-main-page"/>
     <file name="nomq_portfolio-main-page.css" crc="418335774" ref="portfolio-main-page"/>
     <file name="menu-from-about.css" crc="4175968661" ref="menu-from-about"/>
     <file name="nomq_menu-from-about.css" crc="343518554" ref="menu-from-about"/>
@@ -219,10 +219,10 @@
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="481017948" seo="true" mt="1528147893666" redirect="true"/>
-  <file name="about.html" crc="324901225" seo="true" mt="1528148011184" redirect="true"/>
-  <file name="contact.html" crc="465288997" seo="true" mt="1528148011184" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="3869704634" seo="true" mt="1528147825653" redirect="true"/>
+  <file name="index.html" crc="362307390" seo="true" mt="1528148226977" redirect="true"/>
+  <file name="about.html" crc="257745565" seo="true" mt="1528148251182" redirect="true"/>
+  <file name="contact.html" crc="3843703434" seo="true" mt="1528148251182" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="89135472" seo="true" mt="1528148282304" redirect="true"/>
   <file name="menu-from-about.html" crc="4290812884" seo="true" mt="1528108215607" redirect="true"/>
   <file name="menu-from-contact.html" crc="3964793273" seo="true" mt="1528108208540" redirect="true"/>
   <file name="menu-from-portfolio.html" crc="4266784823" seo="true" mt="1528108192908" redirect="true"/>
