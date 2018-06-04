@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="en-GB">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2018.0.0.379"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "menu-from-about.css"], "outOfDate":[]};
+</script>
+  
+  <title>Menu From About</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
+  <link rel="stylesheet" type="text/css" href="css/master_mobile-menu.css?crc=4117948736"/>
+  <link rel="stylesheet" type="text/css" href="css/menu-from-about.css?crc=4175968661" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_mobile-menu.css?crc=3824530138"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_menu-from-about.css?crc=343518554" id="nomq_pagesheet"/>
+  <![endif]-->
+    <!--custom head HTML-->
+  <style type="text/css">
+
+@font-face {
+  font-family: "San Francisco Display Ultralight";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.svg#San Francisco Display Ultralight") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Thin";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.svg#San Francisco Display Thin") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Medium";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.svg#San Francisco Display Medium") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.svg#San Francisco Display Semibold") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Bold";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.svg#San Francisco Display Bold") format("svg")
+}
+
+h1:nth-child(1) {
+  font-family: "San Francisco Display Ultralight";
+}
+
+h1:nth-child(2) {
+  font-family: "San Francisco Display Thin";
+}
+
+h1:nth-child(3) {
+  font-family: "San Francisco Display Medium";
+}
+
+h1:nth-child(4) {
+  font-family: "San Francisco Display Semibold";
+}
+
+h1:nth-child(5) {
+  font-family: "San Francisco Display Bold";
+}
+
+</style>
+ </head>
+ <body>
+
+  <div class="breakpoint active" id="bp_infinity" data-min-width="321"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="clearfix grpelem" id="ppu9699-6"><!-- column -->
+     <div class="clearfix colelem shared_content" id="pu9699-6" data-content-guid="pu9699-6_content"><!-- group -->
+      <a class="nonblock nontext clearfix grpelem" id="u9699-6" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- content --><h2>MARC</h2><h2>YUCOCO</h2></a>
+      <div class="grpelem" id="u9929"><!-- custom html -->
+       <style type="text/css">
+
+h2{
+
+font-family: "San Francisco Display Bold";
+
+}
+
+p{
+
+font-family: "San Francisco Display Medium";
+
+}
+
+div#messenger{
+
+font-family: "San Francisco Display Medium";
+
+
+}
+
+</style>
+      </div>
+     </div>
+     <div class="clearfix colelem" id="pu9710"><!-- group -->
+      <div class="grpelem" id="u9710" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-leftAdjustmentDoneBy="pu9710"><!-- simple frame --></div>
+      <div class="grpelem shared_content" id="u9678" data-content-guid="u9678_content"><!-- custom html -->
+       <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Untitled Document</title>
+<div id="messenger"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.min.js"></script>	
+<script>
+var Messenger = function(el){
+  'use strict';
+  var m = this;
+  
+  m.init = function(){
+    m.codeletters = "&#*+%?£@§$";
+    m.message = 0;
+    m.current_length = 0;
+    m.fadeBuffer = false;
+    m.messages = [
+      'main menu',
+    ];
+    
+    setTimeout(m.animateIn, 100);
+  };
+  
+  m.generateRandomString = function(length){
+    var random_text = '';
+    while(random_text.length < length){
+      random_text += m.codeletters.charAt(Math.floor(Math.random()*m.codeletters.length));
+    } 
+    
+    return random_text;
+  };
+  
+  m.animateIn = function(){
+    if(m.current_length < m.messages[m.message].length){
+      m.current_length = m.current_length + 2;
+      if(m.current_length > m.messages[m.message].length) {
+        m.current_length = m.messages[m.message].length;
+      }
+      
+      var message = m.generateRandomString(m.current_length);
+      $(el).html(message);
+      
+      setTimeout(m.animateIn, 20);
+    } else { 
+      setTimeout(m.animateFadeBuffer, 20);
+    }
+  };
+  
+  m.animateFadeBuffer = function(){
+    if(m.fadeBuffer === false){
+      m.fadeBuffer = [];
+      for(var i = 0; i < m.messages[m.message].length; i++){
+        m.fadeBuffer.push({c: (Math.floor(Math.random()*12))+1, l: m.messages[m.message].charAt(i)});
+      }
+    }
+    
+    var do_cycles = false;
+    var message = ''; 
+    
+    for(var i = 0; i < m.fadeBuffer.length; i++){
+      var fader = m.fadeBuffer[i];
+      if(fader.c > 0){
+        do_cycles = true;
+        fader.c--;
+        message += m.codeletters.charAt(Math.floor(Math.random()*m.codeletters.length));
+      } else {
+        message += fader.l;
+      }
+    }
+    
+    $(el).html(message);
+    
+    if(do_cycles === true){
+      setTimeout(m.animateFadeBuffer, 50);
+    } else {
+      setTimeout(m.cycleText, 2000);
+    }
+  };
+  
+  m.cycleText = function(){
+    m.message = m.message + 1;
+    if(m.message >= m.messages.length){
+      m.message = 0;
+    }
+    
+    m.current_length = 0;
+    m.fadeBuffer = false;
+    $(el).html('');
+    
+    setTimeout(m.animateIn, 200);
+  };
+  
+  m.init();
+}
+
+console.clear();
+var messenger = new Messenger($('#messenger'));	
+</script>	
+<style>
+	
+	@import url("https://sf.abarba.me/SF-UI-Display-Regular.otf");
+	
+body {
+  background: #F8F8F8;
+  color: #FF3A3A;
+}
+
+#messenger {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  font-family: "SF Display";
+  font-size: 34px;
+  white-space: nowrap;
+}	
+@media (max-width: 414px){
+	#messenger {
+	font-size: 24px;
+	}
+}
+</style>	
+
+</head>
+
+<body>
+</body>
+</html>
+
+
+      </div>
+      <a class="nonblock nontext Style-1 clearfix grpelem" id="u9651-4" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-leftAdjustmentDoneBy="pu9710"><!-- content --><p class="shared_content" data-content-guid="u9651-4_0_content">home</p></a>
+     </div>
+     <a class="nonblock nontext Style-1 clearfix colelem shared_content" id="u9648-4" href="about.html" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-content-guid="u9648-4_content"><!-- content --><p>about</p></a>
+     <div class="colelem shared_content" id="u9742" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-content-guid="u9742_content"><!-- simple frame --></div>
+     <a class="nonblock nontext Style-1 clearfix colelem shared_content" id="u9650-4" href="contact.html" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-content-guid="u9650-4_content"><!-- content --><p>contact</p></a>
+     <div class="colelem shared_content" id="u9751" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-content-guid="u9751_content"><!-- simple frame --></div>
+     <a class="nonblock nontext Style-1 clearfix colelem shared_content" id="u9649-4" href="portfolio-main-page.html" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-content-guid="u9649-4_content"><!-- content --><p>portfolio</p></a>
+     <div class="colelem shared_content" id="u9760" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-content-guid="u9760_content"><!-- simple frame --></div>
+    </div>
+    <div class="clearfix grpelem shared_content" id="pu8693" data-content-guid="pu8693_content"><!-- group -->
+     <div id="u8693"><!-- simple frame --></div>
+     <a class="nonblock nontext clip_frame" id="u9234" href="about.html"><!-- svg --><img class="svg temp_no_img_src" id="u9231" data-orig-src="images/x-icon.svg?crc=476143866" width="40" height="62" alt="" data-mu-svgfallback="images/x%20icon_poster_.png?crc=3803859259" src="images/blank.gif?crc=4208392903"/></a>
+    </div>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="892" data-content-below-spacer="736" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu9699-6"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu9699-6_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu9710"><!-- group -->
+      <div class="grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-orig-id="u9710"><!-- simple frame --></div>
+      <span class="grpelem placeholder" data-placeholder-for="u9678_content"><!-- placeholder node --></span>
+      <a class="nonblock nontext Style-1 clearfix grpelem temp_no_id" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedRight" data-orig-id="u9651-4"><!-- content --><span class="placeholder" data-placeholder-for="u9651-4_0_content"><!-- placeholder node --></span></a>
+     </div>
+     <span class="nonblock nontext Style-1 clearfix colelem placeholder" data-placeholder-for="u9648-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u9742_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext Style-1 clearfix colelem placeholder" data-placeholder-for="u9650-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u9751_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext Style-1 clearfix colelem placeholder" data-placeholder-for="u9649-4_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u9760_content"><!-- placeholder node --></span>
+    </div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu8693_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="892" data-content-below-spacer="568" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   // Decide weather to suppress missing file error or not based on preference setting
+var suppressMissingFileError = false
+</script>
+  <script type="text/javascript">
+   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
+l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
+setTimeout(function(){g(!0)},5E3):g()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.fullPage('#page');/* 100% height page */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=380897831" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   </body>
+</html>
