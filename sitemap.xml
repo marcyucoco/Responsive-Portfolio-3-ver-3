@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>http://marcyucocodesign.com/portfolio-main-page.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,6 +50,12 @@
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/unretro474x306.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/unretro474x306_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://marcyucocodesign.com/menu-from-about.html</loc>
@@ -71,7 +77,7 @@
   </url>
   <url>
     <loc>http://marcyucocodesign.com/contact.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
