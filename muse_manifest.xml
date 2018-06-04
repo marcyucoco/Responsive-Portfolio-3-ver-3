@@ -1,27 +1,27 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528146367385">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528148048431">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master-mobile-menu.css" crc="336653491" ref="contact:about"/>
+    <file name="master_a-master-mobile-menu.css" crc="4173165732" ref="contact:about"/>
     <file name="nomq_preview_master_a-master-mobile-menu.css" crc="3869564568" ref="contact:about"/>
     <file name="master_mobile-menu.css" crc="4117948736" ref="menu-from-portfolio:menu-from-contact:menu-from-about"/>
     <file name="nomq_preview_master_mobile-menu.css" crc="3824530138" ref="menu-from-portfolio:menu-from-contact:menu-from-about"/>
-    <file name="master_a-master.css" crc="4256273445" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4263294787" ref="index"/>
-    <file name="master_portfolio-master.css" crc="4132355967" ref="portfolio-main-page"/>
+    <file name="master_a-master.css" crc="4068634831" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="342992369" ref="index"/>
+    <file name="master_portfolio-master.css" crc="4205719750" ref="portfolio-main-page"/>
     <file name="nomq_preview_master_portfolio-master.css" crc="501175506" ref="portfolio-main-page"/>
-    <file name="contact.css" crc="171496442" ref="contact"/>
+    <file name="contact.css" crc="4099834053" ref="contact"/>
     <file name="nomq_contact.css" crc="362111366" ref="contact"/>
-    <file name="index.css" crc="270370896" ref="index"/>
-    <file name="nomq_index.css" crc="349608088" ref="index"/>
-    <file name="about.css" crc="535779567" ref="about"/>
+    <file name="index.css" crc="42267090" ref="index"/>
+    <file name="nomq_index.css" crc="4092027051" ref="index"/>
+    <file name="about.css" crc="52139384" ref="about"/>
     <file name="nomq_about.css" crc="4189677795" ref="about"/>
     <file name="portfolio-item---air-max-97.css" crc="131039766" ref="portfolio-item---air-max-97"/>
     <file name="menu-from-portfolio.css" crc="4050668271" ref="menu-from-portfolio"/>
     <file name="nomq_menu-from-portfolio.css" crc="343518554" ref="menu-from-portfolio"/>
     <file name="menu-from-contact.css" crc="263704391" ref="menu-from-contact"/>
     <file name="nomq_menu-from-contact.css" crc="343518554" ref="menu-from-contact"/>
-    <file name="portfolio-main-page.css" crc="4180807995" ref="portfolio-main-page"/>
-    <file name="nomq_portfolio-main-page.css" crc="4167785109" ref="portfolio-main-page"/>
+    <file name="portfolio-main-page.css" crc="4194932782" ref="portfolio-main-page"/>
+    <file name="nomq_portfolio-main-page.css" crc="418335774" ref="portfolio-main-page"/>
     <file name="menu-from-about.css" crc="4175968661" ref="menu-from-about"/>
     <file name="nomq_menu-from-about.css" crc="343518554" ref="menu-from-about"/>
   </folder>
@@ -58,9 +58,9 @@
       <caption webpage="portfolio-main-page" alt=""/>
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
-    <file name="hamburger icon_poster_.png" crc="405010383" ref="about:portfolio-main-page"/>
-    <file name="u357-123.png" crc="104323095" ref="about"/>
-    <file name="u357-12_2x3.png" crc="3833969444" ref="about"/>
+    <file name="hamburger icon_poster_.png" crc="405010383" ref="about"/>
+    <file name="u357-123.png" crc="77712867" ref="about"/>
+    <file name="u357-12_2x3.png" crc="4248970760" ref="about"/>
     <file name="u967.png" crc="172837257" ref="contact"/>
     <file name="u967_2x.png" crc="4104612042" ref="contact"/>
     <file name="u967-ferr.png" crc="287754760" ref="contact"/>
@@ -105,50 +105,50 @@
     <file name="u961-fse_2x2.png" crc="407338758" ref="contact"/>
     <file name="u972-fss2.png" crc="45635249" ref="contact"/>
     <file name="u972-fss_2x2.png" crc="68420687" ref="contact"/>
-    <file name="u9673.png" crc="4032312005" ref="contact"/>
-    <file name="u967_2x3.png" crc="260917356" ref="contact"/>
-    <file name="u967-ferr3.png" crc="4148833232" ref="contact"/>
-    <file name="u967-ferr_2x3.png" crc="4030658314" ref="contact"/>
-    <file name="u9693.png" crc="361142498" ref="contact"/>
-    <file name="u969_2x3.png" crc="15125540" ref="contact"/>
-    <file name="u969-ferr3.png" crc="3853694075" ref="contact"/>
-    <file name="u969-ferr_2x3.png" crc="4273487598" ref="contact"/>
-    <file name="u9603.png" crc="3837939111" ref="contact"/>
-    <file name="u960_2x3.png" crc="3829351655" ref="contact"/>
-    <file name="u960-ferr3.png" crc="132173245" ref="contact"/>
-    <file name="u960-ferr_2x3.png" crc="126927797" ref="contact"/>
-    <file name="u9623.png" crc="4076215676" ref="contact"/>
-    <file name="u962_2x3.png" crc="424936784" ref="contact"/>
-    <file name="u962-r3.png" crc="3798446401" ref="contact"/>
-    <file name="u962-r_2x3.png" crc="4280994016" ref="contact"/>
-    <file name="u963-fs3.png" crc="310645194" ref="contact"/>
-    <file name="u963-fs_2x3.png" crc="529966857" ref="contact"/>
-    <file name="u961-fse3.png" crc="4227278855" ref="contact"/>
-    <file name="u961-fse_2x3.png" crc="19529218" ref="contact"/>
-    <file name="u972-fss3.png" crc="259128871" ref="contact"/>
-    <file name="u972-fss_2x3.png" crc="3882819231" ref="contact"/>
-    <file name="u9674.png" crc="4221254737" ref="contact"/>
-    <file name="u967_2x4.png" crc="3907781892" ref="contact"/>
-    <file name="u967-ferr4.png" crc="4278264815" ref="contact"/>
-    <file name="u967-ferr_2x4.png" crc="91229756" ref="contact"/>
-    <file name="u9694.png" crc="3881626621" ref="contact"/>
-    <file name="u969_2x4.png" crc="4149703052" ref="contact"/>
-    <file name="u969-ferr4.png" crc="4218417236" ref="contact"/>
-    <file name="u969-ferr_2x4.png" crc="4001910110" ref="contact"/>
-    <file name="u9604.png" crc="3958092215" ref="contact"/>
-    <file name="u960_2x4.png" crc="92392762" ref="contact"/>
-    <file name="u960-ferr4.png" crc="63890986" ref="contact"/>
-    <file name="u960-ferr_2x4.png" crc="3893153572" ref="contact"/>
-    <file name="u9624.png" crc="3780718476" ref="contact"/>
-    <file name="u962_2x4.png" crc="3843885939" ref="contact"/>
-    <file name="u962-r4.png" crc="353791690" ref="contact"/>
-    <file name="u962-r_2x4.png" crc="3924614616" ref="contact"/>
-    <file name="u963-fs4.png" crc="514321172" ref="contact"/>
-    <file name="u963-fs_2x4.png" crc="419002439" ref="contact"/>
-    <file name="u961-fse4.png" crc="4066680264" ref="contact"/>
-    <file name="u961-fse_2x4.png" crc="4111710462" ref="contact"/>
-    <file name="u972-fss4.png" crc="248817842" ref="contact"/>
-    <file name="u972-fss_2x4.png" crc="180029195" ref="contact"/>
+    <file name="u9673.png" crc="131140491" ref="contact"/>
+    <file name="u967_2x3.png" crc="4175945978" ref="contact"/>
+    <file name="u967-ferr3.png" crc="120725375" ref="contact"/>
+    <file name="u967-ferr_2x3.png" crc="4283914681" ref="contact"/>
+    <file name="u9693.png" crc="204915414" ref="contact"/>
+    <file name="u969_2x3.png" crc="4180304455" ref="contact"/>
+    <file name="u969-ferr3.png" crc="3841569843" ref="contact"/>
+    <file name="u969-ferr_2x3.png" crc="102837269" ref="contact"/>
+    <file name="u9603.png" crc="483852409" ref="contact"/>
+    <file name="u960_2x3.png" crc="4142099814" ref="contact"/>
+    <file name="u960-ferr3.png" crc="4269382766" ref="contact"/>
+    <file name="u960-ferr_2x3.png" crc="4236453795" ref="contact"/>
+    <file name="u9623.png" crc="4195413225" ref="contact"/>
+    <file name="u962_2x3.png" crc="4056262931" ref="contact"/>
+    <file name="u962-r3.png" crc="4246461077" ref="contact"/>
+    <file name="u962-r_2x3.png" crc="3938033000" ref="contact"/>
+    <file name="u963-fs3.png" crc="393866806" ref="contact"/>
+    <file name="u963-fs_2x3.png" crc="4197000159" ref="contact"/>
+    <file name="u961-fse3.png" crc="13062086" ref="contact"/>
+    <file name="u961-fse_2x3.png" crc="3971746369" ref="contact"/>
+    <file name="u972-fss3.png" crc="45635249" ref="contact"/>
+    <file name="u972-fss_2x3.png" crc="68420687" ref="contact"/>
+    <file name="u9674.png" crc="4032312005" ref="contact"/>
+    <file name="u967_2x4.png" crc="260917356" ref="contact"/>
+    <file name="u967-ferr4.png" crc="4148833232" ref="contact"/>
+    <file name="u967-ferr_2x4.png" crc="4030658314" ref="contact"/>
+    <file name="u9694.png" crc="361142498" ref="contact"/>
+    <file name="u969_2x4.png" crc="15125540" ref="contact"/>
+    <file name="u969-ferr4.png" crc="3853694075" ref="contact"/>
+    <file name="u969-ferr_2x4.png" crc="4273487598" ref="contact"/>
+    <file name="u9604.png" crc="3837939111" ref="contact"/>
+    <file name="u960_2x4.png" crc="3829351655" ref="contact"/>
+    <file name="u960-ferr4.png" crc="132173245" ref="contact"/>
+    <file name="u960-ferr_2x4.png" crc="126927797" ref="contact"/>
+    <file name="u9624.png" crc="4076215676" ref="contact"/>
+    <file name="u962_2x4.png" crc="424936784" ref="contact"/>
+    <file name="u962-r4.png" crc="3798446401" ref="contact"/>
+    <file name="u962-r_2x4.png" crc="4280994016" ref="contact"/>
+    <file name="u963-fs4.png" crc="310645194" ref="contact"/>
+    <file name="u963-fs_2x4.png" crc="529966857" ref="contact"/>
+    <file name="u961-fse4.png" crc="4227278855" ref="contact"/>
+    <file name="u961-fse_2x4.png" crc="19529218" ref="contact"/>
+    <file name="u972-fss4.png" crc="259128871" ref="contact"/>
+    <file name="u972-fss_2x4.png" crc="3882819231" ref="contact"/>
     <file name="x-icon.svg" crc="476143866" seo="true" ref="menu-from-about:menu-from-contact:menu-from-portfolio">
       <caption webpage="menu-from-portfolio" alt=""/>
       <caption webpage="menu-from-portfolio" alt=""/>
@@ -168,9 +168,6 @@
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="sos edited_2x.png" crc="317877098" seo="true" ref="portfolio-main-page">
-      <caption webpage="portfolio-main-page" alt=""/>
-    </file>
-    <file name="silver bullet poster mockup688x444.png" crc="339623170" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
     <file name="silver bullet poster mockup_2x.png" crc="465956122" seo="true" ref="portfolio-main-page">
@@ -194,11 +191,38 @@
     <file name="silver bullet poster mockup316x204_2x.png" crc="448619041" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
+    <file name="u357-124.png" crc="104323095" ref="about"/>
+    <file name="u357-12_2x4.png" crc="3833969444" ref="about"/>
+    <file name="u9675.png" crc="4221254737" ref="contact"/>
+    <file name="u967_2x5.png" crc="3907781892" ref="contact"/>
+    <file name="u967-ferr5.png" crc="4278264815" ref="contact"/>
+    <file name="u967-ferr_2x5.png" crc="91229756" ref="contact"/>
+    <file name="u9695.png" crc="3881626621" ref="contact"/>
+    <file name="u969_2x5.png" crc="4149703052" ref="contact"/>
+    <file name="u969-ferr5.png" crc="4218417236" ref="contact"/>
+    <file name="u969-ferr_2x5.png" crc="4001910110" ref="contact"/>
+    <file name="u9605.png" crc="3958092215" ref="contact"/>
+    <file name="u960_2x5.png" crc="92392762" ref="contact"/>
+    <file name="u960-ferr5.png" crc="63890986" ref="contact"/>
+    <file name="u960-ferr_2x5.png" crc="3893153572" ref="contact"/>
+    <file name="u9625.png" crc="3780718476" ref="contact"/>
+    <file name="u962_2x5.png" crc="3843885939" ref="contact"/>
+    <file name="u962-r5.png" crc="353791690" ref="contact"/>
+    <file name="u962-r_2x5.png" crc="3924614616" ref="contact"/>
+    <file name="u963-fs5.png" crc="514321172" ref="contact"/>
+    <file name="u963-fs_2x5.png" crc="419002439" ref="contact"/>
+    <file name="u961-fse5.png" crc="4066680264" ref="contact"/>
+    <file name="u961-fse_2x5.png" crc="4111710462" ref="contact"/>
+    <file name="u972-fss5.png" crc="248817842" ref="contact"/>
+    <file name="u972-fss_2x5.png" crc="180029195" ref="contact"/>
+    <file name="silver bullet poster mockup.png" crc="339623170" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="154440520" seo="true" mt="1528100266053" redirect="true"/>
-  <file name="about.html" crc="3969204325" seo="true" mt="1528100140286" redirect="true"/>
-  <file name="contact.html" crc="456427768" seo="true" mt="1528100175975" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="4183246602" seo="true" mt="1528146349243" redirect="true"/>
+  <file name="index.html" crc="481017948" seo="true" mt="1528147893666" redirect="true"/>
+  <file name="about.html" crc="324901225" seo="true" mt="1528148011184" redirect="true"/>
+  <file name="contact.html" crc="465288997" seo="true" mt="1528148011184" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="3869704634" seo="true" mt="1528147825653" redirect="true"/>
   <file name="menu-from-about.html" crc="4290812884" seo="true" mt="1528108215607" redirect="true"/>
   <file name="menu-from-contact.html" crc="3964793273" seo="true" mt="1528108208540" redirect="true"/>
   <file name="menu-from-portfolio.html" crc="4266784823" seo="true" mt="1528108192908" redirect="true"/>

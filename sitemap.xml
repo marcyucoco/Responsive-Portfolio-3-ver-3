@@ -27,9 +27,6 @@
       <image:loc>http://marcyucocodesign.com/images/sos%20edited_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup688x444.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup_2x.png</image:loc>
     </image:image>
     <image:image>
@@ -49,6 +46,9 @@
     </image:image>
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup316x204_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup.png</image:loc>
     </image:image>
   </url>
   <url>
