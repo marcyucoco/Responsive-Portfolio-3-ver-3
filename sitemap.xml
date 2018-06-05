@@ -27,7 +27,16 @@
       <image:loc>http://marcyucocodesign.com/images/sos%20edited_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/unretro474x306.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/unretro474x306_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/sos%20edited316x204.png</image:loc>
@@ -47,24 +56,12 @@
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup316x204_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro474x306.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/unretro474x306_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://marcyucocodesign.com/menu-from-about.html</loc>
     <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/x-icon.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://marcyucocodesign.com/about.html</loc>
@@ -85,38 +82,185 @@
     </image:image>
   </url>
   <url>
-    <loc>http://marcyucocodesign.com/menu-from-contact.html</loc>
-    <lastmod>2018-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/x-icon.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://marcyucocodesign.com/menu-from-portfolio.html</loc>
     <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://marcyucocodesign.com/portfolio-item---air-max-97.html</loc>
+    <lastmod>2018-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/x-icon.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://marcyucocodesign.com/portfolio-item---air-max-97.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <loc>http://marcyucocodesign.com/menu-from-contact.html</loc>
+    <lastmod>2018-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://marcyucocodesign.com/portfolio-item---species-of-spaces.html</loc>
+    <lastmod>2018-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/x-icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%202_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos-text-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%204_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos-text-3.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos-text-4.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos-text-5.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%205_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7208_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7226.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7226_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos-text-6.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%204400x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%204400x300_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%203469x352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%203469x352_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%201469x352.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%201469x352_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%202446x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%202446x334_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%205495x372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%205495x372_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7208615x461.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7208615x461_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7226321x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7226321x241_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%204234x176.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%204234x176_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%203275x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%203275x206_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%201314x236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%201314x236_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%202318x239.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%202318x239_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%205376x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%205376x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7208375x282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7208375x282_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7226222x167.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/img_7226222x167_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://marcyucocodesign.com/assets/background_video.mulib</loc>
+    <lastmod>2018-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://marcyucocodesign.com/assets/mileage-glitch-screen-mobile.mp4</loc>
     <lastmod>2018-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://marcyucocodesign.com/assets/background_video.mulib</loc>
-    <lastmod>2018-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -11,18 +11,139 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "portfolio-item---air-max-97.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "portfolio-item---air-max-97.css"], "outOfDate":[]};
 </script>
   
   <title>Portfolio Item - Air Max 97</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/portfolio-item---air-max-97.css?crc=131039766" id="pagesheet"/>
-   </head>
+  <link rel="stylesheet" type="text/css" href="css/master_portfolio-item-master.css?crc=276702390"/>
+  <link rel="stylesheet" type="text/css" href="css/portfolio-item---air-max-97.css?crc=343618434" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_portfolio-item-master.css?crc=509263097"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_portfolio-item---air-max-97.css?crc=159559472" id="nomq_pagesheet"/>
+  <![endif]-->
+    <!--custom head HTML-->
+  <style type="text/css">
+
+@font-face {
+  font-family: "San Francisco Display Ultralight";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.svg#San Francisco Display Ultralight") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Thin";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.svg#San Francisco Display Thin") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Medium";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.svg#San Francisco Display Medium") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.svg#San Francisco Display Semibold") format("svg")
+}
+
+@font-face {
+  font-family: "San Francisco Display Bold";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.eot?#iefix) format("embedded-opentype"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff2) format("woff2"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff) format("woff"), url(https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.ttf) format("truetype"), url("fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.svg#San Francisco Display Bold") format("svg")
+}
+
+h1:nth-child(1) {
+  font-family: "San Francisco Display Ultralight";
+}
+
+h1:nth-child(2) {
+  font-family: "San Francisco Display Thin";
+}
+
+h1:nth-child(3) {
+  font-family: "San Francisco Display Medium";
+}
+
+h1:nth-child(4) {
+  font-family: "San Francisco Display Semibold";
+}
+
+h1:nth-child(5) {
+  font-family: "San Francisco Display Bold";
+}
+
+</style>
+ </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="500" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="737"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="grpelem" id="u20102" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- simple frame --></div>
+    <div class="clearfix grpelem" id="pu20104"><!-- group -->
+     <a class="nonblock nontext transition grpelem" id="u20104" href="portfolio-main-page.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- simple frame --></a>
+     <a class="nonblock nontext Style-1 clearfix grpelem" id="u20101-4" href="portfolio-main-page.html" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><h2>back</h2></a>
+    </div>
+    <a class="nonblock nontext clip_frame shared_content" id="u20261" href="portfolio-main-page.html" data-content-guid="u20261_content"><!-- svg --><img class="svg temp_no_img_src" id="u20257" data-orig-src="images/x-icon.svg?crc=476143866" width="40" height="62" alt="" data-mu-svgfallback="images/x%20icon_poster_.png?crc=3803859259" src="images/blank.gif?crc=4208392903"/></a>
+    <div class="grpelem shared_content" id="u20103" data-content-guid="u20103_content"><!-- custom html -->
+     <style type="text/css">
+
+h2{
+
+font-family: "San Francisco Display Bold";
+
+}
+
+p{
+
+font-family: "San Francisco Display Medium";
+
+}
+
+div#messenger{
+
+font-family: "San Francisco Display Medium";
+
+
+}
+
+</style>
+    </div>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="2435" data-content-below-spacer="720" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_736" data-min-width="415" data-max-width="736"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem shared_content" id="pu20102" data-content-guid="pu20102_content"><!-- group -->
+     <div class="temp_no_id" data-orig-id="u20102"><!-- simple frame --></div>
+     <span class="nonblock nontext clip_frame placeholder" data-placeholder-for="u20261_content"><!-- placeholder node --></span>
+    </div>
+    <span class="grpelem placeholder" data-placeholder-for="u20103_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="1172" data-content-below-spacer="1024" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_414" data-min-width="321" data-max-width="414"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu20102_content"><!-- placeholder node --></span>
+    <span class="grpelem placeholder" data-placeholder-for="u20103_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="1665" data-content-below-spacer="736" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu20102_content"><!-- placeholder node --></span>
+    <span class="grpelem placeholder" data-placeholder-for="u20103_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="1779" data-content-below-spacer="568" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -35,14 +156,14 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
