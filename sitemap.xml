@@ -56,6 +56,18 @@
     <image:image>
       <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup316x204_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%20edited474x305.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/sos%20edited474x305_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup510x329.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://marcyucocodesign.com/images/silver%20bullet%20poster%20mockup510x329_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://marcyucocodesign.com/menu-from-about.html</loc>
@@ -82,22 +94,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://marcyucocodesign.com/menu-from-portfolio.html</loc>
-    <lastmod>2018-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://marcyucocodesign.com/portfolio-item---air-max-97.html</loc>
-    <lastmod>2018-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://marcyucocodesign.com/images/x-icon.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://marcyucocodesign.com/menu-from-contact.html</loc>
+    <lastmod>2018-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://marcyucocodesign.com/menu-from-portfolio.html</loc>
     <lastmod>2018-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -253,14 +256,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://marcyucocodesign.com/assets/background_video.mulib</loc>
-    <lastmod>2018-05-24</lastmod>
+    <loc>http://marcyucocodesign.com/assets/mileage-glitch-screen-mobile.mp4</loc>
+    <lastmod>2018-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://marcyucocodesign.com/assets/mileage-glitch-screen-mobile.mp4</loc>
-    <lastmod>2018-04-06</lastmod>
+    <loc>http://marcyucocodesign.com/assets/background_video.mulib</loc>
+    <lastmod>2018-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

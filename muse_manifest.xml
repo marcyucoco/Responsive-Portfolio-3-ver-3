@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528171961925">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marcyucocodesign.com" resolutions="1x,2x" timestamp="1528173817466">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master-mobile-menu.css" crc="235081712" ref="contact:about"/>
@@ -7,41 +7,39 @@
     <file name="nomq_preview_master_mobile-menu.css" crc="104154811" ref="menu-from-portfolio:menu-from-contact:menu-from-about"/>
     <file name="master_a-master.css" crc="399215080" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4138187659" ref="index"/>
-    <file name="master_portfolio-master.css" crc="106872195" ref="portfolio-main-page"/>
-    <file name="nomq_preview_master_portfolio-master.css" crc="249402736" ref="portfolio-main-page"/>
+    <file name="master_portfolio-master.css" crc="3888184857" ref="portfolio-main-page"/>
+    <file name="nomq_preview_master_portfolio-master.css" crc="4096119886" ref="portfolio-main-page"/>
     <file name="contact.css" crc="3927174914" ref="contact"/>
     <file name="nomq_contact.css" crc="129263875" ref="contact"/>
     <file name="index.css" crc="3895208160" ref="index"/>
     <file name="nomq_index.css" crc="310715317" ref="index"/>
     <file name="about.css" crc="173165095" ref="about"/>
     <file name="nomq_about.css" crc="4116100971" ref="about"/>
-    <file name="portfolio-item---air-max-97.css" crc="343618434" ref="portfolio-item---air-max-97"/>
     <file name="menu-from-portfolio.css" crc="411603977" ref="menu-from-portfolio"/>
     <file name="nomq_menu-from-portfolio.css" crc="4070528596" ref="menu-from-portfolio"/>
     <file name="menu-from-contact.css" crc="3925333565" ref="menu-from-contact"/>
     <file name="nomq_menu-from-contact.css" crc="4055786604" ref="menu-from-contact"/>
-    <file name="portfolio-main-page.css" crc="4024052694" ref="portfolio-main-page"/>
-    <file name="nomq_portfolio-main-page.css" crc="4251574743" ref="portfolio-main-page"/>
+    <file name="portfolio-main-page.css" crc="3778275473" ref="portfolio-main-page"/>
+    <file name="nomq_portfolio-main-page.css" crc="220769581" ref="portfolio-main-page"/>
     <file name="menu-from-about.css" crc="3925333565" ref="menu-from-about"/>
     <file name="nomq_menu-from-about.css" crc="4055786604" ref="menu-from-about"/>
-    <file name="master_portfolio-item-master.css" crc="276702390" ref="portfolio-item---species-of-spaces:portfolio-item---air-max-97"/>
-    <file name="nomq_preview_master_portfolio-item-master.css" crc="509263097" ref="portfolio-item---species-of-spaces:portfolio-item---air-max-97"/>
-    <file name="portfolio-item---species-of-spaces.css" crc="304783920" ref="portfolio-item---species-of-spaces"/>
-    <file name="nomq_portfolio-item---species-of-spaces.css" crc="4061086255" ref="portfolio-item---species-of-spaces"/>
-    <file name="nomq_portfolio-item---air-max-97.css" crc="159559472" ref="portfolio-item---air-max-97"/>
+    <file name="master_portfolio-item-master.css" crc="4163895402" ref="portfolio-item---species-of-spaces"/>
+    <file name="nomq_preview_master_portfolio-item-master.css" crc="509263097" ref="portfolio-item---species-of-spaces"/>
+    <file name="portfolio-item---species-of-spaces.css" crc="3986682545" ref="portfolio-item---species-of-spaces"/>
+    <file name="nomq_portfolio-item---species-of-spaces.css" crc="4148615825" ref="portfolio-item---species-of-spaces"/>
   </folder>
   <folder name="assets">
     <file name="mileage-glitch-screen-mobile.mp4" crc="267816326" seo="true" mt="1523001366000"/>
     <file name="background_video.mulib" crc="3877035001" seo="true" mt="1527133118000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
-    <file name="require.js" crc="4157109226" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
+    <file name="require.js" crc="4157109226" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
     <file name="webpro.js" crc="242022427" ref="contact"/>
     <file name="form_check.php" crc="147359589" ref="contact"/>
     <file name="form_throttle.php" crc="93986428" ref="contact"/>
@@ -49,7 +47,7 @@
     <file name="form-u956.php" crc="3947157903" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---air-max-97:portfolio-item---species-of-spaces"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact:portfolio-main-page:menu-from-about:menu-from-contact:menu-from-portfolio:portfolio-item---species-of-spaces"/>
     <file name="hamburger-icon.svg" crc="4159666842" seo="true" ref="about:contact:portfolio-main-page">
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -61,7 +59,7 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="hamburger icon_poster_.png" crc="227427689" ref="about"/>
+    <file name="hamburger icon_poster_.png" crc="405010383" ref="about:portfolio-main-page"/>
     <file name="u967.png" crc="172837257" ref="contact"/>
     <file name="u967_2x.png" crc="4104612042" ref="contact"/>
     <file name="u967-ferr.png" crc="287754760" ref="contact"/>
@@ -192,21 +190,14 @@
     <file name="silver bullet poster mockup316x204_2x.png" crc="3835514620" seo="true" ref="portfolio-main-page">
       <caption webpage="portfolio-main-page" alt=""/>
     </file>
-    <file name="x-icon.svg" crc="476143866" seo="true" ref="portfolio-item---air-max-97:portfolio-item---species-of-spaces">
+    <file name="x-icon.svg" crc="476143866" seo="true" ref="portfolio-item---species-of-spaces">
       <caption webpage="portfolio-item---species-of-spaces" alt=""/>
       <caption webpage="portfolio-item---species-of-spaces" alt=""/>
       <caption webpage="portfolio-item---species-of-spaces" alt=""/>
-      <caption webpage="portfolio-item---species-of-spaces" alt=""/>
-      <caption webpage="portfolio-item---species-of-spaces" alt=""/>
-      <caption webpage="portfolio-item---species-of-spaces" alt=""/>
-      <caption webpage="portfolio-item---species-of-spaces" alt=""/>
-      <caption webpage="portfolio-item---species-of-spaces" alt=""/>
-      <caption webpage="portfolio-item---air-max-97" alt=""/>
       <caption webpage="portfolio-item---air-max-97" alt=""/>
       <caption webpage="portfolio-item---air-max-97" alt=""/>
       <caption webpage="portfolio-item---air-max-97" alt=""/>
     </file>
-    <file name="x icon_poster_.png" crc="3803859259" ref="portfolio-item---air-max-97"/>
     <file name="sos 1.jpg" crc="204854564" seo="true" ref="portfolio-item---species-of-spaces">
       <caption webpage="portfolio-item---species-of-spaces" alt=""/>
     </file>
@@ -382,14 +373,25 @@
       <caption webpage="portfolio-item---species-of-spaces" alt=""/>
       <caption webpage="portfolio-item---species-of-spaces" alt=""/>
     </file>
+    <file name="sos edited474x305.png" crc="4267170776" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="sos edited474x305_2x.png" crc="257208451" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="silver bullet poster mockup510x329.png" crc="3967903491" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
+    <file name="silver bullet poster mockup510x329_2x.png" crc="53403110" seo="true" ref="portfolio-main-page">
+      <caption webpage="portfolio-main-page" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3916593665" seo="true" mt="1528170117168" redirect="true"/>
   <file name="about.html" crc="4135306955" seo="true" mt="1528169300934" redirect="true"/>
   <file name="contact.html" crc="3865242645" seo="true" mt="1528169300937" redirect="true"/>
-  <file name="portfolio-main-page.html" crc="158484693" seo="true" mt="1528169300939" redirect="true"/>
+  <file name="portfolio-main-page.html" crc="42388788" seo="true" mt="1528173380641" redirect="true"/>
   <file name="menu-from-about.html" crc="216320187" seo="true" mt="1528169300924" redirect="true"/>
   <file name="menu-from-contact.html" crc="306117279" seo="true" mt="1528169300924" redirect="true"/>
   <file name="menu-from-portfolio.html" crc="156345384" seo="true" mt="1528169300924" redirect="true"/>
-  <file name="portfolio-item---air-max-97.html" crc="465007457" seo="true" mt="1528171583276" redirect="true"/>
-  <file name="portfolio-item---species-of-spaces.html" crc="495023344" seo="true" mt="1528171942398" redirect="true"/>
+  <file name="portfolio-item---species-of-spaces.html" crc="511788241" seo="true" mt="1528173311123" redirect="true"/>
 </manifest>
